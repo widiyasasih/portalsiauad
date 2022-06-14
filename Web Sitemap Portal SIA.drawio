@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T21:27:45.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="9MItvK9OPURDeyDClnRF" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T21:31:27.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zsSnEVyUuT9ImKckOhFc" version="20.0.1" type="github">
   <diagram id="Bsze32CDvP0iaV-iEPGE" name="Page-1">
-    <mxGraphModel dx="-740" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-899" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -812,10 +812,43 @@
         <mxCell id="twMHJTkQKGjOTuoVNY1T-1157" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="twMHJTkQKGjOTuoVNY1T-1153" target="twMHJTkQKGjOTuoVNY1T-1118">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2529" y="354" />
-              <mxPoint x="2549" y="354" />
+              <mxPoint x="2529" y="345" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="twMHJTkQKGjOTuoVNY1T-1158" value="KRS Ujian Ulang" style="whiteSpace=wrap;html=1;shadow=0;glass=0;jiggle=1;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=auto;fillColor=none;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="2549" y="440" width="100.99" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="twMHJTkQKGjOTuoVNY1T-1159" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="twMHJTkQKGjOTuoVNY1T-1153" target="twMHJTkQKGjOTuoVNY1T-1158">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2529" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="twMHJTkQKGjOTuoVNY1T-1160" value="Jadwal Kuliah" style="whiteSpace=wrap;html=1;shadow=0;glass=0;jiggle=1;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=auto;fillColor=none;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="2549.0000000000005" y="570.75" width="84.74" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="twMHJTkQKGjOTuoVNY1T-1161" value="Presensi" style="whiteSpace=wrap;html=1;shadow=0;glass=0;jiggle=1;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=auto;fillColor=none;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="2549.0000000000005" y="607.75" width="60.27" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="twMHJTkQKGjOTuoVNY1T-1162" value="KHS" style="whiteSpace=wrap;html=1;shadow=0;glass=0;jiggle=1;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=auto;fillColor=none;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="2549.0000000000005" y="664" width="40.27" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="twMHJTkQKGjOTuoVNY1T-1163" value="Transkip" style="whiteSpace=wrap;html=1;shadow=0;glass=0;jiggle=1;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=auto;fillColor=none;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="2549.0000000000005" y="710" width="60" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="twMHJTkQKGjOTuoVNY1T-1164" value="Praktikum" style="whiteSpace=wrap;html=1;shadow=0;glass=0;jiggle=1;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=auto;fillColor=none;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="2549.0000000000005" y="771.25" width="60" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="twMHJTkQKGjOTuoVNY1T-1165" value="KHS Praktikum" style="whiteSpace=wrap;html=1;shadow=0;glass=0;jiggle=1;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=auto;fillColor=none;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="2549.0000000000005" y="820.5" width="90.27" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="twMHJTkQKGjOTuoVNY1T-1166" value="Surat Perjalanan&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=0;glass=0;jiggle=1;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=auto;fillColor=none;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="2549.0000000000005" y="869.75" width="109.77" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="twMHJTkQKGjOTuoVNY1T-1167" value="UTS &amp;amp; UAS" style="whiteSpace=wrap;html=1;shadow=0;glass=0;jiggle=1;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=auto;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="2549.0000000000005" y="929.75" width="79.27" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
