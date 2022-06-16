@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T10:04:24.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="qxAG5QZZ-Xy057b90obf" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T10:08:39.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ffm6XH27BRXF2i4MKIgN" version="20.0.1" type="github">
   <diagram id="Bsze32CDvP0iaV-iEPGE" name="Page-1">
-    <mxGraphModel dx="-931" dy="1552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-786" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1644,24 +1644,21 @@
         <mxCell id="6PdTYrQDKtdM59NeVqHl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;" edge="1" parent="1" source="fpU1LXMx2nXw8ilyPSJG-244" target="6PdTYrQDKtdM59NeVqHl-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6PdTYrQDKtdM59NeVqHl-8" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="fpU1LXMx2nXw8ilyPSJG-244" target="fpU1LXMx2nXw8ilyPSJG-237">
+        <mxCell id="6PdTYrQDKtdM59NeVqHl-8" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fpU1LXMx2nXw8ilyPSJG-244" target="fpU1LXMx2nXw8ilyPSJG-237">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3750" y="92" />
-              <mxPoint x="3750" y="20" />
+              <mxPoint x="3750" y="70" />
+              <mxPoint x="3840" y="70" />
+              <mxPoint x="3840" y="20" />
               <mxPoint x="3470" y="20" />
               <mxPoint x="3470" y="70" />
               <mxPoint x="3415" y="70" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6PdTYrQDKtdM59NeVqHl-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpU1LXMx2nXw8ilyPSJG-244" target="6PdTYrQDKtdM59NeVqHl-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3746" y="92" />
-              <mxPoint x="3746" y="62" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="6PdTYrQDKtdM59NeVqHl-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fpU1LXMx2nXw8ilyPSJG-244" target="6PdTYrQDKtdM59NeVqHl-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fpU1LXMx2nXw8ilyPSJG-244" value="Klik Daftar" style="whiteSpace=wrap;html=1;shadow=0;glass=0;jiggle=1;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=solid;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="3665" y="84.33" width="65" height="15.95" as="geometry" />
@@ -2179,7 +2176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fpU1LXMx2nXw8ilyPSJG-358" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Route Portal SIA UAD - Kemahasiswaan&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Helvetica;align=center;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="3893.88" width="238.93" height="30" as="geometry" />
+          <mxGeometry x="3883.88" y="10" width="238.93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fpU1LXMx2nXw8ilyPSJG-359" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="4003.26" y="263.5" width="60" height="90" as="geometry" />
@@ -2289,11 +2286,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6PdTYrQDKtdM59NeVqHl-1" value="+ ket&#xa;+ Detail Periode TBQ&#xa;+ Pilih Syarat TBQ &gt; Klik Daftar :&#xa;   + Alert: Pendaftaran Berhasil&#xa;   + Klik Batal&#xa;+ Tabel TBQ Yang Diikuti" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3538.61" y="-84" width="200" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="6PdTYrQDKtdM59NeVqHl-2" value="Alert: Pendaftaran Berhasil" style="whiteSpace=wrap;html=1;shadow=0;glass=0;jiggle=1;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=solid;sketch=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="3766.04" y="51.5" width="154.96" height="20.5" as="geometry" />
+          <mxGeometry x="3665" y="40" width="154.96" height="20.5" as="geometry" />
         </mxCell>
         <mxCell id="6PdTYrQDKtdM59NeVqHl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6PdTYrQDKtdM59NeVqHl-3" target="6PdTYrQDKtdM59NeVqHl-4">
           <mxGeometry relative="1" as="geometry" />
