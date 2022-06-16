@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T13:06:24.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="KLjM4JTjo2623H1IsSGl" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T13:07:32.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="yFRUgQmytLoAO0dL0JKQ" version="20.0.1" type="github">
   <diagram id="Bsze32CDvP0iaV-iEPGE" name="Page-1">
     <mxGraphModel dx="-931" dy="1552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1690,6 +1690,14 @@
         <mxCell id="XGdq4JMApisK7101ccDe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;" edge="1" parent="1" source="fpU1LXMx2nXw8ilyPSJG-274" target="XGdq4JMApisK7101ccDe-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XGdq4JMApisK7101ccDe-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpU1LXMx2nXw8ilyPSJG-274" target="XGdq4JMApisK7101ccDe-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3440" y="426" />
+              <mxPoint x="3440" y="476" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fpU1LXMx2nXw8ilyPSJG-274" value="KKN" style="whiteSpace=wrap;html=1;shadow=0;glass=0;jiggle=1;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=auto;fillColor=none;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="3389" y="418.25" width="40.01" height="16" as="geometry" />
         </mxCell>
@@ -2467,20 +2475,8 @@
         <mxCell id="6PdTYrQDKtdM59NeVqHl-92" value="&lt;span style=&quot;text-align: left;&quot;&gt;Output&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=0;glass=0;jiggle=1;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=solid;sketch=1;fillColor=#fff2cc;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="3474.4799999999996" y="382.5" width="45" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="XGdq4JMApisK7101ccDe-1" value="+ pilih Periode KKN:&#xa;  + Pendaftaran &amp; Seleksi: + Detail Periode Pendaftaran + Persyaratan + Daftar :&#xa;     + Detail Pengecekan Persyaratan&#xa;     + Input &amp; Update Biodata Mahasiswa : &#xa;        + Simpan &gt; @Detail Pengecekan Persyaratan&#xa;        + Batal &gt; @pilih Periode KKN&#xa;  + Pengelompokan &amp; Penempatan &gt; End" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3472.5" y="592.75" width="450" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="XGdq4JMApisK7101ccDe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGdq4JMApisK7101ccDe-2" target="XGdq4JMApisK7101ccDe-4">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XGdq4JMApisK7101ccDe-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.618;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XGdq4JMApisK7101ccDe-2" target="XGdq4JMApisK7101ccDe-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3550" y="426" />
-              <mxPoint x="3550" y="453" />
-              <mxPoint x="3631" y="453" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="XGdq4JMApisK7101ccDe-2" value="Pilih Periode" style="whiteSpace=wrap;html=1;shadow=0;glass=0;jiggle=1;disableMultiStroke=0;disableMultiStrokeFill=0;fillStyle=solid;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="3458.86" y="418.25" width="81.02" height="16" as="geometry" />
